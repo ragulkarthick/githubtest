@@ -1,1 +1,1 @@
-inherits omicron
+omicron spreads
